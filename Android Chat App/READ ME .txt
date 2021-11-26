@@ -1,0 +1,17 @@
+Good Day
+
+in order tp run this project properly you need to run the Server file that is in the folder name "Server"
+
+by opening the command line in your system. go to the directory of inside the folder name "Server"
+
+once you are inside the folder then you can type this command  "node Server.js" then press enter
+
+then it will show, that the server is running locally on your machine on port 3000
+
+You can launch the application using visual studio by loading the project files that are in the folder name "Android Chat App"
+
+then once the application open on the virtual device then you can insert your name and press enter then you are going to access the app
+
+and be able to send message, back and forth is you open the application on another virtual android device
+
+Thank You
